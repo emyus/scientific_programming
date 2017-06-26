@@ -123,7 +123,8 @@ class Text(object):
 
     def common_words(self, n=10):
         """
-        Return the n most common words in the text. Only looks for words with 3 or more letters and ignores a given set of very common words.
+        Test..test
+	Return the n most common words in the text. Only looks for words with 3 or more letters and ignores a given set of very common words.
 
         Parameters
         ----------

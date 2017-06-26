@@ -9,5 +9,5 @@ install:
 script:
     - cd exercises/solutions
     - pytest --cov=./
-after_sucess:
+after_script:
     - codecov
